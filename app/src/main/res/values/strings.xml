@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FintechBillingApp</string>
+    <string name="title_json_parser_demo">JSON Parser Demo</string>
+    <string name="btn_parse_json">Parse JSON</string>
+    <string name="btn_open_invoice">Buka Studi Kasus Invoice</string>
+    <string name="title_invoice_details">Faktur Tagihan FinTech</string>
+    <string name="label_merchant_section">Informasi Mitra (Merchant)</string>
+    <string name="label_customer_section">Informasi Pelanggan (Payer)</string>
+    <string name="label_items_section">Daftar Barang Belanja</string>
+    <string name="label_summary_section">Rincian Pembayaran</string>
+    <string name="no_promo_used">Tidak menggunakan promo</string>
+</resources>
